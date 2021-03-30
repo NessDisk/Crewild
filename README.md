@@ -4,7 +4,7 @@ unity version 2019.3.0a10
 package + setting folder
 
 steps:
-1. download. 
-2. create a new project unity version 2019.3.0a10.
-3. replace the setting folder in nuew proyect Unity.
-4. extrac package Crewild.
+1. Download. 
+2. Create a new project unity version 2019.3.0a10.
+3. Replace the setting folder in nuew proyect Unity.
+4. Extrac package Crewild.
