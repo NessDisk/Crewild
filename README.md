@@ -1,5 +1,5 @@
 # Crewild
-Poke-like
+Pokelike
 unity version 2019.3.0a10
 package + setting folder
 
