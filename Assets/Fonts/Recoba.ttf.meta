@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: abcc9951e6833af46853607c636b7c67
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Recoba
+  fontNames:
+  - Recoba
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 211606dfec49bb0409ab8b66c96253fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
