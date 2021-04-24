@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 7e851f8389d8c7648b9ca2528e985992
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1041354039166147354
+    second: terreno 7_0
+  - first:
+      213: -9068911167848052792
+    second: terreno 7_1
+  - first:
+      213: 1596155807461901854
+    second: terreno 7_2
+  - first:
+      213: -3712730277815575412
+    second: terreno 7_3
+  - first:
+      213: 4661629770860384946
+    second: terreno 7_4
+  - first:
+      213: 5335898418094635132
+    second: terreno 7_5
+  - first:
+      213: 5634293597991123505
+    second: terreno 7_6
+  - first:
+      213: 2330761039219700108
+    second: terreno 7_7
+  - first:
+      213: -619783017995026746
+    second: terreno 7_8
+  - first:
+      213: 5090078702372318320
+    second: terreno 7_9
+  - first:
+      213: -7822957138380304698
+    second: terreno 7_10
+  - first:
+      213: 8934320034340691981
+    second: terreno 7_11
+  - first:
+      213: 1661651114291429503
+    second: terreno 7_12
+  - first:
+      213: 5024000754511712795
+    second: terreno 7_13
+  - first:
+      213: 8437867361200169415
+    second: terreno 7_14
+  - first:
+      213: -5016045714221194139
+    second: terreno 7_15
+  - first:
+      213: -7389630339281230076
+    second: terreno 7_16
+  - first:
+      213: -5957414998717507583
+    second: terreno 7_17
+  - first:
+      213: 1885728091796177341
+    second: terreno 7_18
+  - first:
+      213: 6057232964489799770
+    second: terreno 7_19
+  - first:
+      213: -3479967556864064516
+    second: terreno 7_20
+  - first:
+      213: 4467845473412176583
+    second: terreno 7_21
+  - first:
+      213: -3611902330354360806
+    second: terreno 7_22
+  - first:
+      213: -8729709086099653344
+    second: terreno 7_23
+  - first:
+      213: -1075567169062014130
+    second: terreno 7_24
+  - first:
+      213: 5502442856680684657
+    second: terreno 7_25
+  - first:
+      213: -2790973569357993070
+    second: terreno 7_26
+  - first:
+      213: -1125895767945491412
+    second: terreno 7_27
+  - first:
+      213: 3480594816254011052
+    second: terreno 7_28
+  - first:
+      213: 3882562520223925768
+    second: terreno 7_29
+  - first:
+      213: -2917379580983362748
+    second: terreno 7_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terreno 7_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 314
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5f12140764c74f8b055cbfce29b52
+      internalID: -1041354039166147354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 308
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de79ddde14cf5a4478d184f730b16f13
+      internalID: -9068911167848052792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 324
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f3bec65e48d5b47ace21c0076e20a5
+      internalID: 1596155807461901854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 324
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189b3d1b78a2f7e4f806144c80be6324
+      internalID: -3712730277815575412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 314
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fcfa35b5f19cc4787d3c1fe05ffa23
+      internalID: 4661629770860384946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 314
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69ace0fd7f406479f72f0911361b06
+      internalID: 5335898418094635132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 314
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c0b157080ebc14ebfa8dc5670b753d
+      internalID: 5634293597991123505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 244
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c9160d6af683248a8269dd3c9168e6
+      internalID: 2330761039219700108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 284
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d25cdb41ff893144ad72d76f7742477
+      internalID: -619783017995026746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 224
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8117fd47d8612448757cc7a45f31e3
+      internalID: 5090078702372318320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 230
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5caa936447de014195e1380c4c8cd42
+      internalID: -7822957138380304698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 235
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac213177a11f7414dbc78e15a198a5f8
+      internalID: 8934320034340691981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 167
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c4904f1f0fb64ba315595c84d51f1
+      internalID: 1661651114291429503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 159
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af0319595c3c724c8bd098abe0e3553
+      internalID: 5024000754511712795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 163
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81e0f8e32280c94aa63c306ffe7cda6
+      internalID: 8437867361200169415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 165
+        width: 11
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5d78823ed74e4cbcd43fabe6948d8
+      internalID: -5016045714221194139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 169
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1082aa999dcfccf468e599672cc01481
+      internalID: -7389630339281230076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_17
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 172
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf102fa86bad9141aaa869d7d99ca51
+      internalID: -5957414998717507583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 158
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344912ff0704ef34fa859d23d734331b
+      internalID: 1885728091796177341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 100
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20843bfa0368e814fbdc39f5c052b53d
+      internalID: 6057232964489799770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 111
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b73f9b7790bd2449985aeee99abcf2
+      internalID: -3479967556864064516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 107
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821429448dcddf48a6ab07b3f6ea8ea
+      internalID: 4467845473412176583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 97
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082fe41997eda164ba56142ccc7f7a11
+      internalID: -3611902330354360806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_23
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 105
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e957bd037f6dbed42ae575357a821ec2
+      internalID: -8729709086099653344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 93
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e39a8b1f99b8469d61a52a3f79438
+      internalID: -1075567169062014130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 95
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9765663ce19884c9f7c5ca38a46413
+      internalID: 5502442856680684657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 23
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704bf6f2ef5dbe42953c21135462263
+      internalID: -2790973569357993070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 25
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc7a1de71ec66d4ea199aeb6577f6b7
+      internalID: -1125895767945491412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 49
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2d012fbc89e91469fb9c15c7030db0
+      internalID: 3480594816254011052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 36
+        width: 39
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03a5428d32a3e744b169f64315ddcde
+      internalID: 3882562520223925768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno 7_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 27
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a52cf4318c0ed4f946973b63435aeb
+      internalID: -2917379580983362748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
