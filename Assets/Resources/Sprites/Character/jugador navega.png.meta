@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 43f583d8d40fe2749849fd00ce784780
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2973214307699171019
+    second: jugador navega_0
+  - first:
+      213: 1155602899979487703
+    second: jugador navega_1
+  - first:
+      213: 6124676666118618203
+    second: jugador navega_2
+  - first:
+      213: 5746959172545903587
+    second: jugador navega_3
+  - first:
+      213: -4866785524225104492
+    second: jugador navega_4
+  - first:
+      213: -510388240724700039
+    second: jugador navega_5
+  - first:
+      213: -4371543891800948323
+    second: jugador navega_6
+  - first:
+      213: 275519163924357318
+    second: jugador navega_7
+  - first:
+      213: -9171867581284015100
+    second: jugador navega_8
+  - first:
+      213: -8653529339159815241
+    second: jugador navega_9
+  - first:
+      213: 7594371898676749622
+    second: jugador navega_10
+  - first:
+      213: -6878240331851028682
+    second: jugador navega_11
+  - first:
+      213: 1437116465056088199
+    second: jugador navega_12
+  - first:
+      213: -6808008160684503573
+    second: jugador navega_13
+  - first:
+      213: 8692748210699453408
+    second: jugador navega_14
+  - first:
+      213: -4844468329206758075
+    second: jugador navega_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jugador navega_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 148
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.7255371, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d3c5ff10a28f46b8d535658d116c2
+      internalID: 2973214307699171019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 110
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7255371, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9eec8fcbb9d444a95b0d6905d8b374
+      internalID: 1155602899979487703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7255371, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f9748afb87ea54b85929a6e7eec1c9
+      internalID: 6124676666118618203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 58
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7255371, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4ebf8d46c1b541990ab0001a86b88
+      internalID: 5746959172545903587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 148
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.268962, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6b660f409907438fb371a4554e3f1
+      internalID: -4866785524225104492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 110
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.268962, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dbfc74488ebcb41a372b7762cd2ee5
+      internalID: -510388240724700039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.268962, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853173e14f5775a4d885da6abcb99d20
+      internalID: -4371543891800948323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 11
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.268962, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57017bd06a115e6408511c20cad5563f
+      internalID: 275519163924357318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 148
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ea76451b010a74ea327585d82bd8af
+      internalID: -9171867581284015100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 107
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c18f7c6266606f4b9dc0152b4d291b9
+      internalID: -8653529339159815241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 53
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419cc3faf64d363468d31f927fa356e0
+      internalID: 7594371898676749622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 7
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8913c24f6a019e4881fa58097608800
+      internalID: -6878240331851028682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3843854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec8ffa95454a9f45976599b4f18222a
+      internalID: 1437116465056088199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 45
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3843854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b800b1b6dd839499f3b712a27c4c32
+      internalID: -6808008160684503573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 90
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3843854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525682caa966084eab1fb15ebc6a3b8
+      internalID: 8692748210699453408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador navega_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 131
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3843854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b080b3e2fff2e34b84de4ff8502072c
+      internalID: -4844468329206758075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

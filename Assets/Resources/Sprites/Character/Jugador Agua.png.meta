@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: a824bc4090c088140b9d65e5d2acd997
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3921081295750831687
+    second: Jugador Agua_0
+  - first:
+      213: -5967455307253535528
+    second: Jugador Agua_1
+  - first:
+      213: 2314427223281736897
+    second: Jugador Agua_2
+  - first:
+      213: 2329158381282642130
+    second: Jugador Agua_3
+  - first:
+      213: 70578046363205635
+    second: Jugador Agua_4
+  - first:
+      213: 2028113962608192747
+    second: Jugador Agua_5
+  - first:
+      213: -2529015753087208598
+    second: Jugador Agua_6
+  - first:
+      213: 5713073090531864895
+    second: Jugador Agua_7
+  - first:
+      213: 2140056863631208592
+    second: Jugador Agua_8
+  - first:
+      213: -5298794013608327308
+    second: Jugador Agua_9
+  - first:
+      213: -3485781472057397174
+    second: Jugador Agua_10
+  - first:
+      213: 2302787651242558728
+    second: Jugador Agua_11
+  - first:
+      213: 4304342055552157327
+    second: Jugador Agua_12
+  - first:
+      213: -537819822451544368
+    second: Jugador Agua_13
+  - first:
+      213: -7054778730175812842
+    second: Jugador Agua_14
+  - first:
+      213: 5943959810055384848
+    second: Jugador Agua_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jugador Agua_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7087015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b01d24e5d6662499b78e8735904050
+      internalID: 3921081295750831687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7320938, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b079f074dd20b4cb940104c2ba955b
+      internalID: -5967455307253535528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.72214305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f973bbd70bd8a4d882225a7cde5276
+      internalID: 2314427223281736897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 142
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.71679044, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0accf4066ed915428c5b92c5f63e4a9
+      internalID: 2329158381282642130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27843356, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2b4df263c5b7d4283dbe36118b3ba3
+      internalID: 70578046363205635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 50
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.28284785, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350e240fcdbf994d87df9f1b65631b7
+      internalID: 2028113962608192747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30758688, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f1a81438f457469286d81c58c11a3
+      internalID: -2529015753087208598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 143
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.29659188, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9322df8b08383e042bc50d37597fff47
+      internalID: 5713073090531864895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4957622, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd3cc42a3dd89f46a78e9e3e246fbb2
+      internalID: 2140056863631208592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5339009, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe7e004cd1880e448de99c808ea7017
+      internalID: -5298794013608327308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.45338535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c98ee58d94b2745ab8c90572a5762e
+      internalID: -3485781472057397174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44914785, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc33d754b70ed41957233e67bf13b6
+      internalID: 2302787651242558728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44491005, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa93ce1a381d78e4eb952ed3f89791e1
+      internalID: 4304342055552157327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 45
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45338568, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c545da32dd81744428baf8e26286d693
+      internalID: -537819822451544368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 90
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45338568, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c675a94b66a5ea43a13ad8651ab9070
+      internalID: -7054778730175812842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugador Agua_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 131
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45762315, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a21b415313c3e4a820ddbabb1f027a
+      internalID: 5943959810055384848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
